@@ -9,7 +9,7 @@ through the LED driver. The expansion board is designed to provide examples for 
 arranged is a single string (e.g., indoor and architectural LED lighting, off-grid street lighting, emergency LED lighting, 
 white goods, gaming, etc.).
 
-# Examples
+## Examples
 
 There is 1 example with the X-NUCLEO-LED61A1 library.
 * X_NUCLEO_LED61A1_HelloWorld: This application provides a simple example of usage of the X-NUCLEO-LED61A1 
